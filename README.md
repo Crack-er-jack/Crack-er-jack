@@ -7,9 +7,9 @@
 
 ## I'm a BTECH CSE and IITM BSc student, Google WE Scholar, Developer, and [Blogger][website]!!
 
-- 🌱 I’m currently learning Git and Open Source from Githubify!
+- 🌱 I’m currently learning Vue JS and Flutter!
 - 👓 I am a web developer intern at BRAINOVISION
-- 🎯 Current Goals: Build an awesome portfolio website 🤩
+- 🎯 Current Goals: Build an app for Hobby Project 🤩
 - ⚡ Fun fact: I can sing and also imitate birds!
 
 ---
