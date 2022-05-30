@@ -4,6 +4,7 @@
 ### Hi there, I'm Soumya 👋 
 
 [![Website](https://img.shields.io/website?label=IdeaFlags&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ideaflags.blogspot.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://soumyao.me)
 
 ## I'm a BTECH CSE and IITM BSc student, Google WE Scholar, Developer, and [Blogger][website]!!
 
