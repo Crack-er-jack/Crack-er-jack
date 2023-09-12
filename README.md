@@ -8,9 +8,9 @@
 
 ## I'm a BTECH CSE and IITM BSc student, Google WE Scholar, Developer, and [Blogger][website]!!
 
-- 🌱 I’m currently learning Android and Firebase!
+- 🌱 I’m currently learning VueJS!
 - 👓 I worked as a Research Intern at IIIT
-- 🎯 Current Goals: Build a super super cool android app 🤩
+- 🎯 Current Goals: Build a super super cool Ticket Booking app 🤩
 - ⚡ Fun fact: I can sing and also imitate birds!
 
 ---
