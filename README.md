@@ -8,14 +8,17 @@
 
 ## I'm a BTECH CSE and IITM BSc student, Google WE Scholar, Developer, and [Blogger][website]!!
 
-- 🌱 I’m currently learning VueJS!
-- 👓 I worked as a Research Intern at IIIT
-- 🎯 Current Goals: Build a super super cool Ticket Booking app 🤩
+- 🌱 I’m currently learning Snowflake!
+- 👓 I am working as a software engineer at JPMC
+- 🎯 Current Goals: Get invitation to attend DevUp conference 🤩
 - ⚡ Fun fact: I can sing and also imitate birds!
 
 ---
 
 ### Connect with me:
+
+I started my YouTube channel recently, pls show some love <3
+
 
 [<img align="left" alt="ideaflags.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Soumya Oruganti | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
